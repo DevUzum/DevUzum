@@ -30,7 +30,7 @@ I currently study about ASP.NET, Clean Code, Design Patterns, etc.
 
 <a href="https://www.linkedin.com/in/willian-uzum-a51b00172">
     <img align="left" | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-</a>
+</a> &nbsp;&nbsp;
 
 ***********************************
 
