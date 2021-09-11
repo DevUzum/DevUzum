@@ -14,3 +14,19 @@ I'm 21 years old and I use C# as my main language.
 
 ### Languages:
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" style="vertical-align:top; margin:4px">
+
+***********************************
+
+### Learning:
+
+I currently study about ASP.NET, Clean Code, Design Patterns, etc.
+
+***********************************
+
+### Para visitantes e recrutadores:
+
+Bem-vindos ao meu Github, estou dando uma repaginada para versionar projetos melhores e mais detalhados que darão contexto e ênfase em meus estudos.
+
+Meu nível como desenvolvedor é júnior e sinto que estou criando maior facilidade em desenvolver e aprender novas tecnologias.
+
+![VisitorCount](https://profile-counter.glitch.me/DevUzum/count.svg)
