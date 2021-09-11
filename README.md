@@ -7,7 +7,6 @@ I'm 21 years old and I use C# as my main language.
 ***********************************
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevUzum&theme=dark&layout=compact&theme=radical">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=DevUzum&&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="My Github Stats">
 </p>
 
