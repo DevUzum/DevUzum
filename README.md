@@ -35,4 +35,4 @@ Bem-vindos ao meu Github, estou dando uma repaginada para versionar projetos mel
 
 Nível como Dev: Júnior.
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=SatYu26)
+![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=DevUzum)
