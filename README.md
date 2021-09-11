@@ -23,10 +23,16 @@ I currently study about ASP.NET, Clean Code, Design Patterns, etc.
 
 ***********************************
 
+### Secondary Technologies:
+
+
+
+***********************************
+
 ### Para visitantes e recrutadores:
 
 Bem-vindos ao meu Github, estou dando uma repaginada para versionar projetos melhores e mais detalhados que darão contexto e ênfase em meus estudos.
 
-Meu nível como desenvolvedor é júnior e sinto que estou criando maior facilidade em desenvolver e aprender novas tecnologias.
+Nível como Dev: Júnior.
 
-![VisitorCount](https://profile-counter.glitch.me/DevUzum/count.svg)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=SatYu26)
