@@ -17,7 +17,7 @@ I'm 23 years old and I use C# as my main language.
 
 ### Learning:
 
-I currently study about ASP.NET, Clean Code, Design Patterns.
+Atualmente estou estudando sobre Generics, Reflection e melhores práticas para deixar a API mais performática.
 
 ***********************************
 
