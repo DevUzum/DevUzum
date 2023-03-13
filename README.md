@@ -38,6 +38,6 @@ Atualmente estou estudando sobre Generics, Reflection e melhores práticas para 
 
 Bem-vindos ao meu Github, estou dando uma repaginada para versionar projetos melhores e mais detalhados que darão contexto e ênfase em meus estudos.
 
-Nível Como DEV: Pleno.
+Nível Como Dev: Pleno.
 
 ![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=DevUzum)
