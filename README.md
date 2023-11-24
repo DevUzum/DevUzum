@@ -17,7 +17,12 @@ I'm 23 years old and I use C# as my main language.
 
 ### Learning:
 
-Atualmente estou estudando sobre Generics, Reflection e melhores práticas para deixar a API mais performática.
+"Atualmente estou..."
+
+- Fazendo uma apresentação de boas práticas.
+- Melhorando minha lógica de programação.
+- Melhorando minha compreenção sobre Angular e Node.
+- Aprendendo sobre Docker.
 
 ***********************************
 
