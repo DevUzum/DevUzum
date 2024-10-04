@@ -19,9 +19,8 @@ I'm 24 years old and I use C# as my main language.
 
 "Atualmente estou..."
 
-- Melhorando minha lógica de programação.
-- Melhorando minha compreenção sobre Angular e Node.
-- Aperfeiçoando meu inglês.
+- Aprendendo o mínimo de todas as arquiteturas.
+- Estou refinando meu conhecimento sobre assuntos básicos da programação (REST, Mensageria, Soluções e Etc.)
 
 ***********************************
 
