@@ -31,7 +31,7 @@ DevOps with Azure, Architectures with .NET, improving my English, and other topi
 
 ***********************************
 
-### To Visitors or Recruiters::
+### To Visitors or Recruiters:
 
 "Welcome to my profile! I'm currently organizing my repositories and cleaning things up.
 
