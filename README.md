@@ -10,11 +10,6 @@ I'm 24 years old and currently working at Cogna as developer.
 
 ***********************************
 
-### Languages:
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" style="vertical-align:top; margin:4px">
-
-***********************************
-
 ### Learning:
 
 Currently, I'm learning about Kubernetes. However, I have an extensive study roadmap that includes: 
@@ -22,9 +17,10 @@ DevOps with Azure, Architectures with .NET, improving my English, and other topi
 
 ***********************************
 
-### Secondary Technologies:
+### Technologies:
 
-<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+- C# .NET
+- The rest is on my LinkedIn, so please check it out there!
 
 ***********************************
 ### Connect with me
