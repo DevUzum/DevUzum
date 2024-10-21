@@ -1,6 +1,6 @@
 ### Hello World, I am Willian!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-I'm 24 years old and I use C# as my main language.
+I'm 24 years old and currently working at Cogna as developer.
 
 ***********************************
 
@@ -17,10 +17,8 @@ I'm 24 years old and I use C# as my main language.
 
 ### Learning:
 
-"Atualmente estou..."
-
-- Aprendendo o mínimo de todas as arquiteturas.
-- Estou refinando meu conhecimento sobre assuntos básicos da programação (REST, Mensageria, Soluções e Etc.)
+Currently, I'm learning about Kubernetes. However, I have an extensive study roadmap that includes: 
+DevOps with Azure, Architectures with .NET, improving my English, and other topics.
 
 ***********************************
 
@@ -37,10 +35,16 @@ I'm 24 years old and I use C# as my main language.
 
 ***********************************
 
-### Para visitantes e recrutadores:
+### To Visitors or Recruiters::
 
-Bem-vindos ao meu Github, estou dando uma repaginada para versionar projetos melhores e mais detalhados que darão contexto e ênfase em meus estudos.
+"Welcome to my profile! I'm currently organizing my repositories and cleaning things up.
 
-Nível Como Dev: Pleno.
+Interesting facts about me: I like games, food, sleep, coding, learning about life, walking, and most of all, gazing at the sky.
+
+Recruiters: Feel free to check out my repositories and leave feedback on my LinkedIn. I would greatly appreciate it.
+
+Developers: I love learning, but what I enjoy most is making new friendships. Let's play some games or code together—whatever works!"
+
+Level: Pleno.
 
 ![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=DevUzum)
